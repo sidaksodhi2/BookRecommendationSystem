@@ -10,8 +10,8 @@ A Book Recommendation System built using collaborative filtering techniques and 
  Simple and intuitive web interface using Flask.<br>
 
 # Tech Stack 
- Backend: Python, Flask
- Frontend: HTML, CSS, Bootstrap
- Machine Learning: Collaborative filtering, cosine similarity
- Database: Data extracted from datasets like Books.csv, Ratings.csv, Users.csv.
+ Backend: Python, Flask<br>
+ Frontend: HTML, CSS, Bootstrap<br>
+ Machine Learning: Collaborative filtering, cosine similarity<br>
+ Database: Data extracted from datasets like Books.csv, Ratings.csv, Users.csv.<br>
 
