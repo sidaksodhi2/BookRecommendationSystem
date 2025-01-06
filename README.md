@@ -4,10 +4,10 @@ A Book Recommendation System built using collaborative filtering techniques and 
 
 
 # Features 
- Recommends books based on user input.
- Displays the most popular books with average ratings and number of votes.
- Displays book titles, authors, and cover images.
- Simple and intuitive web interface using Flask.
+ Recommends books based on user input.<br>
+ Displays the most popular books with average ratings and number of votes.<br>
+ Displays book titles, authors, and cover images.<br>
+ Simple and intuitive web interface using Flask.<br>
 
 # Tech Stack 
  Backend: Python, Flask
